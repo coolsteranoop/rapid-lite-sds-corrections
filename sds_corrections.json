@@ -3,7 +3,7 @@
     {
       "url": "m.media-amazon.com/images/I/71dwMuFIeWL.pdf",
       "language": "en",
-      "add": ["H317", "H319", "H400", "h410" , "h229"],
+      "add": ["H317", "H303", "H400", "h410"],
       "remove": ["H319" , "H315" ,"H227"]
     },
     {
