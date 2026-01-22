@@ -7,7 +7,7 @@
             "remove": ["H226"]
         },
         {
-            "url": "https://m.media-amazon.com/images/I/61PNrzpN-tL.pdf",
+            "url": "m.media-amazon.com/images/I/61PNrzpN-tL.pdf",
             "language": "it",
             "add": [],
             "remove": ["H226" , "H302" ]
