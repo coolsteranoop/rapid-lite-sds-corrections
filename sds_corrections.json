@@ -4,7 +4,7 @@
             "url": "m.media-amazon.com/images/i/61pnrzpn-tl.pdf",
             "language": "it", 
             "add": [],
-            "remove": ["H226", "H302","H315"]
+            "remove": ["H226", "H302","H315","H304"]
         }
     ]
 }
