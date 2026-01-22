@@ -1,10 +1,29 @@
 {
   "corrections": [
     {
-      "url": "71dwMuFIeWL.pdf",
+      "url": "m.media-amazon.com/images/I/71dwMuFIeWL.pdf",
       "language": "en",
-      "add": [],
-      "remove": ["H227"]
+      "add": ["H317", "H303", "H400", "H410"],
+      "remove": ["H319", "H315", "H227"]
+    },
+    {
+      "url": "media-amazon.com/images/I/71dwMuFIeWL.pdf",
+      "language": "en",
+      "add": ["H317", "H303", "H400", "H410"],
+      "remove": ["H319", "H315", "H227"]
+    },
+    {
+      "url": "images/I/71dwMuFIeWL.pdf",
+      "language": "en",
+      "add": ["H317", "H303", "H400", "H410"],
+      "remove": ["H319", "H315", "H227"]
     }
-  ]
+  ],
+  "metadata": {
+    "last_updated": "2024-01-15",
+    "version": "1.0.0",
+    "description": "SDS corrections database for Rapid Lite tool",
+    "author": "Your Name/Organization",
+    "notes": "Add hazard codes that are missing from SDS documents. Remove codes that are incorrectly listed."
+  }
 }
