@@ -1,10 +1,11 @@
 {
-    "corrections": [
-        {
-            "url": "m.media-amazon.com/images/i/61pnrzpn-tl.pdf",
-            "language": "it", 
-            "add": [],
-            "remove": ["H226", "H302","H315","H304"]
-        }
-    ]
+  "corrections": [
+    {
+      "url": "https://m.media-amazon.com/images/I/71WYI-mVWoL.pdf",
+      "language": "en",
+      "add": ["H228"],
+      "remove": ["H225"]
+    },
+    // Add more corrections here as needed
+  ]
 }
