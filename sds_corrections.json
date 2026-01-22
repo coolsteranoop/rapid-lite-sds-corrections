@@ -1,41 +1,10 @@
 {
   "corrections": [
     {
-      "url": "m.media-amazon.com/images/I/71dwMuFIeWL.pdf",
+      "url": "71dwMuFIeWL.pdf",
       "language": "en",
-      "add": ["H317", "H303", "H400", "H410"],
-      "remove": ["H319", "H315", "H227"]
-    },
-    {
-      "url": "s3.amazonaws.com/company/safety/chemical2.pdf",
-      "language": "it",
-      "add": ["H225", "H319", "H317"],
-      "remove": ["H226", "H411"]
-    },
-    {
-      "url": "company.com/products/sds/cleaner.pdf",
-      "language": "de",
-      "add": ["H361d", "H411", "H317"],
-      "remove": ["H402"]
-    },
-    {
-      "url": "manufacturer.com/safety/glue-sds.pdf",
-      "language": "en",
-      "add": ["H336", "H315", "H319"],
-      "remove": ["H302"]
-    },
-    {
-      "url": "supplier.eu/sds/paint-remover.pdf",
-      "language": "es",
-      "add": ["H314", "H318", "H412"],
-      "remove": ["H411", "H413"]
+      "add": [],
+      "remove": ["H227"]
     }
-  ],
-  "metadata": {
-    "last_updated": "2024-01-15",
-    "version": "1.0.0",
-    "description": "SDS corrections database for Rapid Lite tool",
-    "author": "Your Name/Organization",
-    "notes": "Add hazard codes that are missing from SDS documents. Remove codes that are incorrectly listed."
-  }
+  ]
 }
