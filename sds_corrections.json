@@ -1,7 +1,7 @@
 {
   "corrections": [
     {
-      "url": "https://m.media-amazon.com/images/I/71dwMuFIeWL.pdf",
+      "url": "m.media-amazon.com/images/I/71dwMuFIeWL.pdf",
       "language": "en",
       "add": ["H315", "H319", "H302", "EUH208"],
       "remove": []
