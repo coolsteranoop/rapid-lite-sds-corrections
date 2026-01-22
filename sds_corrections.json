@@ -7,10 +7,10 @@
             "remove": ["H226"]
         },
         {
-            "url": "another.com/safety.pdf",
+            "url": "https://m.media-amazon.com/images/I/61PNrzpN-tL.pdf",
             "language": "it",
-            "add": ["H400", "H410"],
-            "remove": ["H411"]
+            "add": [],
+            "remove": ["H226" , "H302" ]
         }
     ]
 }
