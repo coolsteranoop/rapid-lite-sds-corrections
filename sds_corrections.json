@@ -3,8 +3,8 @@
     {
       "url": "m.media-amazon.com/images/I/71dwMuFIeWL.pdf",
       "language": "en",
-      "add": ["H315", "H319", "H302", "EUH208"],
-      "remove": []
+      "add": ["H317", "H319", "H400", "h410"],
+      "remove": ["H319" , "H315" ,"H227"]
     },
     {
       "url": "s3.amazonaws.com/company/safety/chemical2.pdf",
