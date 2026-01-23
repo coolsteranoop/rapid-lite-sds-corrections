@@ -1,14 +1,8 @@
 {
   "corrections": [
     {
-      "url": "media.amazon.com/images/I/71WYI-mVWoL.pdf",
+      "url": "m.media-amazon.com/images/I/81ywwV3U8FL.pdf",
       "language": "en",
-      "add": ["H228"],
-      "remove": ["H225"]
-    },
-    {
-      "url": "media-amazon.com/images/I/81ywwV3U8FL.pdf",
-      "language": "en", 
       "add": ["H319"],
       "remove": []
     }
