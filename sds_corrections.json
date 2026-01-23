@@ -23,6 +23,12 @@
       "language": "en",
       "add": ["H315"],
       "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/8166hiUnyNL.pdf",
+      "language": "en",
+      "add": ["H317"],
+      "remove": []
     }
   ]
 }
