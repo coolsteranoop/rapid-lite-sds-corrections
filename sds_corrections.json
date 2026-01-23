@@ -5,6 +5,12 @@
       "language": "en",
       "add": ["H319"],
       "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/81ciSMt8qTL.pdf",
+      "language": "en",
+      "add": ["H318"],
+      "remove": []
     }
   ]
 }
