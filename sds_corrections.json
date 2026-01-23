@@ -11,7 +11,12 @@
       "language": "en",
       "add": ["H318"],
       "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/91ztlyC+UgL.pdf",
+      "language": "en",
+      "add": ["H412"],
+      "remove": []
     }
-  
   ]
 }
