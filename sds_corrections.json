@@ -29,6 +29,12 @@
       "language": "en",
       "add": ["H317"],
       "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/91cqKpCTtcL.pdf",
+      "language": "en",
+      "add": ["WGK 3"],
+      "remove": []
     }
   ]
 }
