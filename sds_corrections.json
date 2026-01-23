@@ -17,6 +17,12 @@
       "language": "en",
       "add": ["H412"],
       "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/719PqfkwQcL.pdf",
+      "language": "en",
+      "add": ["H315"],
+      "remove": []
     }
   ]
 }
