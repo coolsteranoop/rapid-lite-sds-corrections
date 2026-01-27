@@ -37,9 +37,188 @@
       "remove": []
     },
     {
-      "url": "m.media-amazon.com/images/I/C1OfOftz7yL.pdf",
+      "url": "m.media-amazon.com/images/I/71PKR4Aii8L.pdf",
       "language": "en",
-      "add": ["H319","H320"],
+      "add": [],
+      "remove": [H302]
+    },
+    {
+      "url": "m.media-amazon.com/images/I/91wkh4ggzCL.pdf",
+      "language": "en",
+      "add": ["H227"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71+SNO5mEiL.pdf",
+      "language": "en",
+      "add": ["H316", "H319"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/61zC1mtYfCL.pdf",
+      "language": "en",
+      "add": ["H316", "H313"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/91HuRQuKQiL.pdf",
+      "language": "en",
+      "add": ["H315", "H319", "H335"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/61H-CqS5MtL.pdf",
+      "language": "en",
+      "add": ["H315", "H319"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/91seyzd1rgL.pdf",
+      "language": "en",
+      "add": ["H303", "H313", "H316", "H319", "H412"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/818MqoOh-SL.pdf",
+      "language": "en",
+      "add": ["H316", "H318", "H370", "H373"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/B1NMO-WxobL.pdf",
+      "language": "en",
+      "add": ["H319", "H360", "H370", "H372"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/C1GaG5aOxnL.pdf",
+      "language": "en",
+      "add": ["H332"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/81aQv8dQcHL.pdf",
+      "language": "en",
+      "add": ["WGK2"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/61YL6gP6fSL.pdf",
+      "language": "en",
+      "add": ["H227"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71+VtmNzZ9L.pdf",
+      "language": "en",
+      "add": ["H410"],
+      "remove": ["H411"]
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71xd+hug9IL.pdf",
+      "language": "en",
+      "add": ["H242"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/61gHc9HFxIL.pdf",
+      "language": "en",
+      "add": ["H316", "H320", "H371"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71dwMuFIeWL.pdf",
+      "language": "en",
+      "add": ["H303", "H317", "H400", "H410"],
+      "remove": ["H320", "H411"]
+    },
+    {
+      "url": "m.media-amazon.com/images/I/91BPM4XwIKL.pdf",
+      "language": "en",
+      "add": ["H226", "H315"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/81b12aRNBlL.pdf",
+      "language": "en",
+      "add": ["H319"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/91d8TKdmfWL.pdf",
+      "language": "en",
+      "add": ["H315", "H319", "H335"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71e2vpfadYL.pdf",
+      "language": "en",
+      "add": ["H319", "H411", "H315", "H317"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/B14hdan8bdL.pdf",
+      "language": "en",
+      "add": ["H317"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71VHB8b0iUL.pdf",
+      "language": "en",
+      "add": [],
+      "remove": ["H402"]
+    },
+    {
+      "url": "m.media-amazon.com/images/I/B1w7TKP8wyL.pdf",
+      "language": "en",
+      "add": ["H332"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/7102MScKssL.pdf",
+      "language": "en",
+      "add": [],
+      "remove": ["H302"]
+    },
+    {
+      "url": "m.media-amazon.com/images/I/81eZvhZpLCL.pdf",
+      "language": "en",
+      "add": ["H303"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71Qk4qlDqQL.pdf",
+      "language": "en",
+      "add": ["H315", "H319"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/71P93D5TGPL.pdf",
+      "language": "en",
+      "add": ["H303", "H317", "H400", "H410"],
+      "remove": ["H320", "H411"]
+    },
+    {
+      "url": "m.media-amazon.com/images/I/61xPxo9g6NL.pdf",
+      "language": "en",
+      "add": ["H320"],
+      "remove": []
+    {
+      "url": "m.media-amazon.com/images/I/91E-R2XigbL.pdf",
+      "language": "en",
+      "add": [],
+      "remove": ["H319", "H335", "H412"]
+    },
+    {
+      "url": "m.media-amazon.com/images/I/719PqfkwQcL.pdf",
+      "language": "en",
+      "add": ["H411"],
+      "remove": []
+    },
+    {
+      "url": "m.media-amazon.com/images/I/81cxujUfwXL.pdf",
+      "language": "en",
+      "add": ["H220"],
       "remove": []
     }
   ]
