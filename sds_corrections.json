@@ -21,7 +21,7 @@
     {
       "url": "m.media-amazon.com/images/I/719PqfkwQcL.pdf",
       "language": "en",
-      "add": ["H315"],
+      "add": ["H315", "H411"],
       "remove": []
     },
     {
@@ -40,7 +40,7 @@
       "url": "m.media-amazon.com/images/I/71PKR4Aii8L.pdf",
       "language": "en",
       "add": [],
-      "remove": [H302]
+      "remove": ["H302"]
     },
     {
       "url": "m.media-amazon.com/images/I/91wkh4ggzCL.pdf",
@@ -203,17 +203,12 @@
       "language": "en",
       "add": ["H320"],
       "remove": []
+    },
     {
       "url": "m.media-amazon.com/images/I/91E-R2XigbL.pdf",
       "language": "en",
       "add": [],
       "remove": ["H319", "H335", "H412"]
-    },
-    {
-      "url": "m.media-amazon.com/images/I/719PqfkwQcL.pdf",
-      "language": "en",
-      "add": ["H411"],
-      "remove": []
     },
     {
       "url": "m.media-amazon.com/images/I/81cxujUfwXL.pdf",
